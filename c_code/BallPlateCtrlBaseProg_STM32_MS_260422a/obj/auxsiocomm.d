@@ -1,0 +1,15 @@
+.\obj\auxsiocomm.o: app\auxSIOcomm.c
+.\obj\auxsiocomm.o: C:\Keil4.71\ARM\ARMCC\bin\..\include\string.h
+.\obj\auxsiocomm.o: ..\StdPeriph_Lib\..\basicIO\mctDefs.h
+.\obj\auxsiocomm.o: ..\StdPeriph_Lib\..\basicIO\basicIO.h
+.\obj\auxsiocomm.o: .\cfg\bsp.h
+.\obj\auxsiocomm.o: ..\ucos-ii\cpu\cpu.h
+.\obj\auxsiocomm.o: ..\ucos-ii\cpu\cpu_def.h
+.\obj\auxsiocomm.o: ..\ucos-ii\core\ucos_ii.h
+.\obj\auxsiocomm.o: .\cfg\app_cfg.h
+.\obj\auxsiocomm.o: .\cfg\os_cfg.h
+.\obj\auxsiocomm.o: ..\ucos-ii\stm32f103rb\os_cpu.h
+.\obj\auxsiocomm.o: app\BallPlate.h
+.\obj\auxsiocomm.o: app\bbTypeDefs.h
+.\obj\auxsiocomm.o: app\bbSSParams.h
+.\obj\auxsiocomm.o: app\auxSIOcomm.h

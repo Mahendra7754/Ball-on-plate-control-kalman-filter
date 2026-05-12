@@ -1,0 +1,9 @@
+.\obj\basicio.o: ..\BasicIO\BasicIO.c
+.\obj\basicio.o: ..\BasicIO\mctDefs.h
+.\obj\basicio.o: .\cfg\bsp.h
+.\obj\basicio.o: ..\ucos-ii\cpu\cpu.h
+.\obj\basicio.o: ..\ucos-ii\cpu\cpu_def.h
+.\obj\basicio.o: ..\ucos-ii\core\ucos_ii.h
+.\obj\basicio.o: .\cfg\app_cfg.h
+.\obj\basicio.o: .\cfg\os_cfg.h
+.\obj\basicio.o: ..\ucos-ii\stm32f103rb\os_cpu.h

@@ -1,0 +1,5 @@
+-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\init -I.\cfg -I..\StdPeriph_Lib -I..\StdPeriph_Lib\STM32F10x_StdPeriph_Driver\inc -I.\ -I..\StdPeriph_Lib\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\ucos-ii\core -I..\ucos-ii\stm32f103rb -I..\ucos-ii\cpu 
+-I C:\Keil4.71\ARM\RV31\INC 
+-I C:\Keil4.71\ARM\CMSIS\Include 
+-I C:\Keil4.71\ARM\Inc\ST\STM32F10x 
+-DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD -DUSE_MCBSTM32 -D__CC -D_ARM -o ".\obj\controller.o" --omf_browse ".\obj\controller.crf" --depend ".\obj\controller.d" "app\Controller.c"

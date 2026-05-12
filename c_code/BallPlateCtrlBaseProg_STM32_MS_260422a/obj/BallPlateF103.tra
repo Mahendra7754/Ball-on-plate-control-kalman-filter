@@ -1,0 +1,32 @@
+*** Creating Trace Output File '.\obj\BallPlateF103.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\obj\stm32f10x.o"'
+### List of Objects: adding '".\obj\stm32_init.o"'
+### List of Objects: adding '".\obj\ballplatemain.o"'
+### List of Objects: adding '".\obj\controller.o"'
+### List of Objects: adding '".\obj\bsp.o"'
+### List of Objects: adding '".\obj\auxsiocomm.o"'
+### List of Objects: adding '".\obj\utility.o"'
+### List of Objects: adding '".\obj\ballplatekflib.o"'
+### List of Objects: adding '".\obj\misc.o"'
+### List of Objects: adding '".\obj\core_cm3.o"'
+### List of Objects: adding '".\obj\system_stm32f10x.o"'
+### List of Objects: adding '".\obj\stm32f10x_rcc.o"'
+### List of Objects: adding '".\obj\basicio.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\obj\stm32f10x.o" ".\obj\stm32_init.o" ".\obj\ballplatemain.o" ".\obj\controller.o" ".\obj\bsp.o" ".\obj\auxsiocomm.o" ".\obj\utility.o" ".\obj\ballplatekflib.o" ".\obj\misc.o" ".\obj\core_cm3.o" ".\obj\system_stm32f10x.o" ".\obj\stm32f10x_rcc.o" ".\obj\basicio.o" 
+--strict --scatter ".\obj\BalanceBoard.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\lst\BallPlateF103.map" -o .\obj\BallPlateF103.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\obj\BallPlateF103.axf'
+### ADS-LD Command File: '.\obj\BallPlateF103.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\obj\BallPlateF103.lnp', Handle=0x000003E8
+### Writing '.lnp' file
+### ADS-LD Command file '.\obj\BallPlateF103.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

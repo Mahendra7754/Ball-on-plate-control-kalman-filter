@@ -1,0 +1,15 @@
+.\obj\bsp.o: cfg\bsp.c
+.\obj\bsp.o: C:\Keil4.71\ARM\ARMCC\bin\..\include\stdio.h
+.\obj\bsp.o: ..\StdPeriph_Lib\stm32f10x.h
+.\obj\bsp.o: C:\Keil4.71\ARM\CMSIS\Include\core_cm3.h
+.\obj\bsp.o: C:\Keil4.71\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\bsp.o: C:\Keil4.71\ARM\CMSIS\Include\core_cmInstr.h
+.\obj\bsp.o: C:\Keil4.71\ARM\CMSIS\Include\core_cmFunc.h
+.\obj\bsp.o: ..\StdPeriph_Lib\STM32F10x_StdPeriph_Driver\inc\system_stm32f10x.h
+.\obj\bsp.o: ..\StdPeriph_Lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\obj\bsp.o: ..\StdPeriph_Lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x.h
+.\obj\bsp.o: ..\StdPeriph_Lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\obj\bsp.o: ..\StdPeriph_Lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\obj\bsp.o: ..\StdPeriph_Lib\..\basicIO\mctDefs.h
+.\obj\bsp.o: cfg\platform_cfg.h
+.\obj\bsp.o: .\init\STM32_Init.h
